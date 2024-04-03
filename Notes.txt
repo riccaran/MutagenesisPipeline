@@ -1,2 +1,2 @@
-Change the report format (LaTeX)
+Change the report format (LaTeX) and split it to get two distinct projects
 Complete the readme
